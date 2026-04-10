@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m an IT professional with **8+ years of industry experience**, with significant hands-on focus over the past several years on **DevOps, cloud infrastructure, and platform operations**.
+I’m an IT professional with **7+ years of industry experience**, with significant hands-on focus over the past several years on **DevOps, cloud infrastructure, and platform operations**.
 
 My work centers on **operating applications reliably in production environments**, with an emphasis on automation, repeatability, and clear operational boundaries.
 
